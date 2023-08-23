@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//
 // Definição da estrutura de um nó da árvore
 typedef struct No {
     int dado;
