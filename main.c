@@ -90,6 +90,7 @@ void buscaProfundidadeComCaminho(No* raiz, int valor, int* numCaminhos) {
     buscaProfundidadeComCaminhoRec(raiz, valor, caminho, numCaminhos);
 }
 
+//Feito por Edmilson Caetano e Murade Lobo
 int main() {
     No* no20 = criarNo(3, NULL, NULL);
     No* no19 = criarNo(10, NULL, NULL);
